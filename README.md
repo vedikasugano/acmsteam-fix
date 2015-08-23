@@ -19,5 +19,5 @@ Final thoughts...
 * You need to reapply this fix again if you need to recheck the game integrity, because STEAM will download the original "ACM.exe" again.
 * Use it until GearBox releases a patch. If they're going to release one...
 
-vedikasugano
+
 
