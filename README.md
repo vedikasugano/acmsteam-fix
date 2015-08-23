@@ -10,7 +10,7 @@ How to:
 * Open the folder where the ACM.exe is located: Normally, this folder is "Aliens Colonial Marines\Binaries\Win32".
 * Rename the existing ACM.exe to _ACM.exe
 * Put the downloaded/compiled ACM.exe into this folder, now you have ACM.exe and _ACM.exe in the same folder.
-* There is no need to check compatibility mode nor run as administrator for both files.
+* There is no need to check "compatibility mode" nor "run as administrator" for both files.
 * Enjoy
 
 
