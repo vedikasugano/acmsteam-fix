@@ -1,5 +1,6 @@
 # acmsteam-fix
 Launch fix to "Aliens: Colonial Marines" for Steam.
+Steam community guide: http://steamcommunity.com/sharedfiles/filedetails/?id=309284832
 
 For some people A:CM relaunches every time you quit the game... there are many tips to "fix" this, but they either don't or just temporarily fix the problem. 
 
