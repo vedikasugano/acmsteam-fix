@@ -47,13 +47,13 @@ BuildCmd=
 
 [VersionInfo]
 Major=0
-Minor=0
-Release=1
+Minor=2
+Release=0
 Build=0
 LanguageID=1033
 CharsetID=1252
 CompanyName=
-FileVersion=0.0.1.0
+FileVersion=0.2.0.0
 FileDescription=Loop fix for A:CM
 InternalName=
 LegalCopyright=Vedi Kasugano
