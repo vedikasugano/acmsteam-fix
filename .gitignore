@@ -33,3 +33,6 @@
 
 # others
 *.win
+*_private.*
+*.layout
+*.layout

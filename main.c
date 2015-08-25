@@ -23,7 +23,10 @@ int main(int argc, char *argv[])
    }
   
    if(!CreateProcess(0, cmdline, 0, 0, FALSE, 0, NULL, NULL, &si, &pi))
+   {
    		MessageBox(NULL, "Can't launch _ACM.exe", "Error", MB_ICONERROR | MB_OK);
+   		return 0;
+   }
 		
    WaitForSingleObject(pi.hProcess, INFINITE);
    CloseHandle(pi.hProcess);
